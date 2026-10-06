@@ -1,7 +1,7 @@
 # Dependências necessárias para rodar o servidor (sem ferramentas de desenvolvimento).
 # O pacote mcp fica na linha 1.x: a 2.x remove a API que o servidor usa.
 mcp>=1.0.0,<2
-httpx>=0.25.0
+httpx>=0.28.1
 python-dotenv>=1.0.0
 pydantic>=2.5.0
 pydantic-settings>=2.1.0
